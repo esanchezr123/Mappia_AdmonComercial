@@ -209,6 +209,11 @@
 				<Layers>GH:metropolitana</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:pdv_guis</Name>
+				<Title>pdv_guis</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
@@ -217,7 +222,7 @@
 				<Title>sureste</Title>
 				<Abstract>GH:sureste ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:10</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:11</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-99.07036" miny="14.5321" maxx="-86.71046" maxy="22.59373"></LatLonBoundingBox>
@@ -237,7 +242,7 @@
 				<Title>pacifico</Title>
 				<Abstract>GH:pacifico ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:10</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:11</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-117.30045" miny="20.60326" maxx="-100.74232" maxy="32.71861"></LatLonBoundingBox>
@@ -257,7 +262,7 @@
 				<Title>occidente</Title>
 				<Abstract>GH:occidente ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:10</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:11</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-114.76005" miny="15.65671" maxx="-93.86743" maxy="22.75025"></LatLonBoundingBox>
@@ -277,7 +282,7 @@
 				<Title>noreste</Title>
 				<Abstract>GH:noreste ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:10</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:11</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-103.96012" miny="19.91275" maxx="-97.14412" maxy="29.88002"></LatLonBoundingBox>
@@ -297,7 +302,7 @@
 				<Title>metropolitana</Title>
 				<Abstract>GH:metropolitana ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:10</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:11</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-100.61309" miny="17.13696" maxx="-93.60794" maxy="22.47175"></LatLonBoundingBox>
